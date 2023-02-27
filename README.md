@@ -25,6 +25,9 @@
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
 * [x] Пройти курс по Git на Slurm
+* [x] Изучить основы Docker
+* [ ] Прокачаться в Docker
+* [ ] Изучить CD/CD в GitLab
 * [ ] Осваивать k8s
 * [ ] Учить python       
 <!-- TODO-IST:END -->
